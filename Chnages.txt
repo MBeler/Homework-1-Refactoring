@@ -1,0 +1,1 @@
+-Line 30, a div id was added for search engine optimization to make the link from the hero for search engine optimization work.
